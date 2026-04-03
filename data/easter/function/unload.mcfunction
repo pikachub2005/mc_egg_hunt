@@ -1,0 +1,5 @@
+scoreboard objectives remove easter_redeemed_points
+scoreboard objectives remove easter_redeem_trigger
+scoreboard objectives remove easter_redeem_enabled
+scoreboard objectives remove temp_value
+scoreboard objectives remove temp_count

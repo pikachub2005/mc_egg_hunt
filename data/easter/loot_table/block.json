@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "type": "player"
+          }
+        },
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.02
+        },
+        {
+          "condition": "minecraft:reference",
+          "name": "easter:enabled"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "easter:eggs/any"
+        }
+      ]
+    }
+  ]
+}

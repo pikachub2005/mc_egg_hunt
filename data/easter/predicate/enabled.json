@@ -1,0 +1,12 @@
+{
+  "condition": "value_check",
+  "value": {
+    "type": "score",
+    "target": {
+      "type": "fixed",
+      "name": "global"
+    },
+    "score": "easter_redeem_enabled"
+  },
+  "range": 1
+}
