@@ -1,7 +1,7 @@
 {
-	"pack": {
-		"description": "Easter Egg Hunt by PikachuB2005\nSupports More Mob Heads by VanillaTweaks\nv1.1.0",
-		"min_format": [94, 1],
-		"max_format": [94, 1]
-	}
+  "pack": {
+    "description": "Easter Egg Hunt by PikachuB2005\nSupports More Mob Heads by VanillaTweaks\nv1.2.0",
+    "min_format": [94, 1],
+    "max_format": [94, 1]
+  }
 }
