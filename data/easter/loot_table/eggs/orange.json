@@ -24,6 +24,9 @@
                 "minecraft:custom_data": {
                   "easter_egg": 6,
                   "easter_egg_value": 1
+                },
+                "minecraft:damage_resistant": {
+                  "types": "#easter:all"
                 }
               }
             }
